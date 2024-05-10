@@ -6,7 +6,7 @@ int main(int argc, char const *argv[])
     int num=0;
     int i=1;
 
-    while (1<=100)
+    while (i<=100)
     {
        num+=i*i;
        i++;
