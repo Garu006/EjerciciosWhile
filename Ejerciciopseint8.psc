@@ -1,5 +1,4 @@
 Proceso ProductoVectores
-	
 	Definir array1 Como Entero;
 	Definir array2 Como Entero;
 	Definir producto Como Entero;
@@ -12,7 +11,7 @@ Proceso ProductoVectores
 	
 	producto <- 0;
 	
-	
+
 	i <- 0;
     Escribir "Ingresando datos para el vector 1...";
     Mientras i < 3 Hacer
